@@ -11,4 +11,4 @@ Optional D&amp;D Rules for Ship Combat
 [Character Roles](./Roles.md)
 
 ## References
-[Ship List](./Ship%20Specifications/Ship%20List.md)
+[Ship List](./Ship%20Specifications/ShipList.md)
