@@ -2,4 +2,4 @@
 
 [Caravel](./Caravel.md)
 
-[Sailing Ship](./Sailing%20Ship.md)
+[Sailing Ship](./Sailing_Ship.md)
