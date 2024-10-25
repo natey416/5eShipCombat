@@ -1,6 +1,9 @@
 # Caravel
+
 * Class: Sea class
+
 ## Stats:
+
 STR: 12(+1) DEX: 12(+1) CON: 10(+0) INT: 0 WIS: 0 CHA: 0
 
 Speed: 3
@@ -16,6 +19,7 @@ Cannons: 6 on either side.
 Payload: 25 people, 150 tons
 
 ### Hit points and Armor Class:
+
 * Hull
   * 30 HP
   * AC 15
