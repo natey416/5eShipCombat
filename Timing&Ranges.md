@@ -1,4 +1,4 @@
-# Range bands:
+# Range bands
 
 ![image](https://t3.ftcdn.net/jpg/00/37/33/40/360_F_37334000_0ZFgz0UNMq9LsvzQlJ4SgVLMGqNoe6aV.jpg)
 

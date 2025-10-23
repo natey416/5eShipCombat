@@ -1,4 +1,4 @@
-# Role actions:
+# Role actions
 
 After movement each role other than the helmsman may take one role action. The role actions are as follows:
 
